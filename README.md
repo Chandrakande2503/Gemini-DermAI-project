@@ -1,4 +1,4 @@
 # Gemini-DermAI-project
 
 Link of diployed app:-
-https://gemini-dermai-project-8cxuvz35y4vygaxjxjrkwg.streamlit.app/
+https://gemini-dermai-project-bbdvlmwq29b8okmjhxchfh.streamlit.app/
