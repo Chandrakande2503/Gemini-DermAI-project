@@ -1,13 +1,13 @@
 # Gemini DermAI Project
 
-Link of diployed app:-
-https://gemini-dermai-project-bbdvlmwq29b8okmjhxchfh.streamlit.app/
-
 Welcome to the Gemini DermAI Project repository! This project utilizes the Google Gemini model for skin disease detection using AI. Users can upload images of affected areas and receive information about the disease, including symptoms, precautions, and remedies, by clicking the "Proceed to detection" button.
 
 # Technologies Used
+
 Python
+
 Streamlit
+
 Google API Key
 
 # Deployment
@@ -20,8 +20,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 # How to Use
 Visit the deployed application URL: [Gemini DermAI Project](https://gemini-dermai-project-bbdvlmwq29b8okmjhxchfh.streamlit.app/)
+
 Upload an image of the affected area.
+
 Click the "Proceed to detection" button.
+
 Receive information about the disease, including symptoms, precautions, and remedies.
 
 # Contributions
